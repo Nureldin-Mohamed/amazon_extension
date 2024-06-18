@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    font-size: 14px;
+}
+#price-container {
+    margin-top: 10px;
+}
+#price-comparison {
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    z-index: 1000;
+}
